@@ -1,4 +1,4 @@
-User Management System - JDBC + MYSQL
+### User Management System - JDBC + MYSQL
 
 
 
@@ -10,7 +10,7 @@ It allows users to Register, Login, Select, Update and Delete records from a MyS
 
 
 
-Tech Stack Used
+## Tech Stack Used
 
 
 
@@ -24,7 +24,7 @@ Tech Stack Used
 
 
 
-How the App works
+## How the App works
 
 
 
